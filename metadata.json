@@ -1,0 +1,6 @@
+{
+  "name": "ApexFlow ERP & Global Invoice Suite",
+  "description": "Enterprise agency & business management system with full CRUD operations, international client billing, A4 branded PDF generation, digital signatures, stamps, and multi-channel remote sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
